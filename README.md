@@ -15,7 +15,7 @@ An end-to-end data engineering project built on Databricks, implementing a Lakeh
 ---
 
 ## 📁 Project Structure
-\```
+```
 
 ├── init_lakehouse.ipynb
 ├── bronze_layer.ipynb
@@ -32,7 +32,7 @@ An end-to-end data engineering project built on Databricks, implementing a Lakeh
 │   └── fact_sales.ipynb
 └── orchestration.ipynb
 
-\```
+```
 
 ---
 
