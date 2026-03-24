@@ -18,7 +18,7 @@ An end-to-end data engineering project built on Databricks, implementing a Lakeh
 ```
 
 ├── init_lakehouse.ipynb
-├── bronze_layer.ipynb
+├── bronze.ipynb
 ├── silver/
 │   ├── silver_orchestration.ipynb
 │   ├── silver_orders.ipynb
